@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/saidul-islam-4895322ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saidul-islam-4895322ab" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/saidul-islam-ba132732a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saidul-islam-4895322ab" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/saidul-islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="saidul-islam" height="30" width="40" /></a>
 <a href="https://kaggle.com/saidul1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="saidul1" height="30" width="40" /></a>
 <a href="https://fb.com/neoton.ijack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="neoton.ijack" height="30" width="40" /></a>
