@@ -30,7 +30,7 @@ This is **Saidul Islam**. Connect with me here -
   ![Django](https://img.shields.io/badge/-Django-563D7C?style=plastic&logo=Django)
   
  - 🌱  Learning all about:
-  ![React](https://img.shields.io/badge/-Jenkins-black?style=plastic&logo=Jenkins)
+  ![React](https://img.shields.io/badge/-React-black?style=plastic&logo=React)
   ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-E10098?style=plastic&logo=TailwindCSS)
 
 - ⚡️  Fun fact: I know nothing but flexing too much🥱
@@ -56,19 +56,6 @@ This is **Saidul Islam**. Connect with me here -
  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=saidulislam2003&theme=light&background=FD2D2D00&hide_border=true&currStreakNum=DD0000&sideLabels=DD2727&sideNums=1CDDAD" alt="saidulislam2003"/>
 </h3>
 
-
-<!-- <b>&#128200; Competitive Programming</b>
-
-<p float="left">
-<img height="273em" src="https://leetcard.jacoblin.cool/nazir021?theme=light&font=Karma&ext=contest" />
-<!-- <img height="280em" src="https://raw.githubusercontent.com/ahmmed_abir/cf-stats/main/output/light_card.svg" /> -->
-<!-- </p>
-
-<h2 align="center">💡 Problem Solving Profiles <img src="https://github.com/shourov-sorkar/shourov-sorkar/blob/master/1.gif?raw=true" width="100px"></h2>
-
-<p align="center">
-<a href="https://www.hackerrank.com"><img src="https://img.shields.io/badge/hackerrank-2FC866?&style=for-the-badge&logo=hackerrank&logoColor=white"/></a><br>
-<a href="https://codeforces.com"><img src="https://img.shields.io/badge/codeforces-yellow?&style=for-the-badge&logo=codeforces&logoColor=white"/></a></p> <h5 align="center"> updating soon...</h5> --> -->
 
 
 
