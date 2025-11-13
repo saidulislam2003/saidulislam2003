@@ -2,10 +2,10 @@
 
 This is **Saidul Islam**. Connect with me here -
 
-[![Linkedin Badge](https://img.shields.io/badge/-nazir-white?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saidulislam2003/)](https://www.linkedin.com/in/saidulislam2003/)
-[![Facebook Badge](https://img.shields.io/badge/-nazir-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/neoton.ijack/)](https://www.facebook.com/neoton.ijack/)
-[![Medium Badge](https://img.shields.io/badge/-@nazir-black?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@saidulih20/)](https://medium.com/@saidulih20)
-[![Instagram Badge](https://img.shields.io/badge/-nazir-purple?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/_felinophile.saidul_/)](https://www.instagram.com/_felinophile.saidul_/)
+[![Linkedin Badge](https://img.shields.io/badge/-saidul-white?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saidulislam2003/)](https://www.linkedin.com/in/saidulislam2003/)
+[![Facebook Badge](https://img.shields.io/badge/-saidul-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/neoton.ijack/)](https://www.facebook.com/neoton.ijack/)
+[![Medium Badge](https://img.shields.io/badge/-@saidul-black?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@saidulih20/)](https://medium.com/@saidulih20)
+[![Instagram Badge](https://img.shields.io/badge/-saidul-purple?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/_felinophile.saidul_/)](https://www.instagram.com/_felinophile.saidul_/)
 
 
 - 🏢  I'm currently studying at **Department of CSE** at **IUBAT - International University of Business Agriculture and Technology**
