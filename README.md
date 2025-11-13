@@ -1,16 +1,14 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
 
-This is **Nazir Ahmed**. Connect with me here -
+This is **Saidul Islam**. Connect with me here -
 
-[![Linkedin Badge](https://img.shields.io/badge/-nazir-white?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nazir021/)](https://www.linkedin.com/in/nazir021/)
-[![Facebook Badge](https://img.shields.io/badge/-nazir-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/nazir021/)](https://www.facebook.com/nazir021/)
-[![Twitter Badge](https://img.shields.io/badge/-Xnazir-green?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/nazir_021)](https://twitter.com/nazir_021)
-[![Medium Badge](https://img.shields.io/badge/-@nazir-black?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@nazirahmedsobuj/)](https://medium.com/@nazirahmedsobuj)
-[![Instagram Badge](https://img.shields.io/badge/-nazir-purple?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/nazir.021/)](https://www.instagram.com/nazir.021/)
-
+[![Linkedin Badge](https://img.shields.io/badge/-nazir-white?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nazir021/)](https://www.linkedin.com/in/saidulislam2003/)
+[![Facebook Badge](https://img.shields.io/badge/-nazir-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/nazir021/)](https://www.facebook.com/neoton.ijack/)
+[![Medium Badge](https://img.shields.io/badge/-@nazir-black?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@nazirahmedsobuj/)](https://medium.com/@saidulih20)
+[![Instagram Badge](https://img.shields.io/badge/-nazir-purple?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/nazir.021/)](https://www.instagram.com/_felinophile.saidul_/)
 
 
-- 🏢  I'm currently working as a Lecturer of **CSE** at **IUBAT - International University of Business Agriculture and Technology**
+- 🏢  I'm currently studying as a Lecturer of **CSE** at **IUBAT - International University of Business Agriculture and Technology**
 - 🚀  Research Area : Machine Learning, Deep Learning, Natural Language Processing, Artificial Intelligence
 - 💻  Expertise on :
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
